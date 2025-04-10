@@ -1,11 +1,21 @@
-# XCB Core Rules
+# 🌌 STARDAO – Universal Decentralized System
 
-This repository defines the immutable core mechanisms of the XCB (Star Currency) on the STARDAO platform.
+StarDAO is a modular DAO ecosystem enabling scalable, fair, and automated decentralized infrastructures.
 
-- Token issuance and reserve mechanism
-- Fee structure
-- Exchange and auction logic
-- Weekly fund distribution logic
-- DAO governance entry points (not included here)
+## 🌟 Core Components
 
-All logics are to be enforced by smart contracts. No manual intervention is allowed.
+### 🪙 [XCB Core Rules](https://github.com/STARDAOLEADER-OH/XCB-CORE-RULES)
+The foundational rules and exchange logic for XCB, the stable token of StarDAO.
+
+### 🏝 [Project Island Engine](https://github.com/STARDAOLEADER-OH/STARDAO-PROJECT-ISLAND)
+Modular deployment system for developers to submit, simulate, and earn through DAO-powered module deployment.
+
+### 💸 [StarPay System](https://github.com/STARDAOLEADER-OH/STARPAY)
+Cross-border micropayment network using smart contracts and regulatory-friendly liquidity routing.
+
+## 🧠 DAO Governance
+- Fully open source & DAO-governed
+- Smart contract-enforced rules
+- Modular expansion by ecosystem contributors
+
+> Learn more about each module by visiting their repositories above.
