@@ -10,7 +10,7 @@ The foundational rules and exchange logic for XCB, the stable token of StarDAO.
 ### 🏝 [Project Island Engine](https://github.com/STARDAOLEADER-OH/STARDAO-PROJECT-ISLAND)
 Modular deployment system for developers to submit, simulate, and earn through DAO-powered module deployment.
 
-### 💸 [StarPay System](https://github.com/STARDAOLEADER-OH/STARPAY)
+### 💸 [StarPay System]([https://github.com/STARDAOLEADER-OH/STARPAY](https://github.com/STARDAOLEADER-OH/STARDAO-StarPay))
 Cross-border micropayment network using smart contracts and regulatory-friendly liquidity routing.
 
 ## 🧠 DAO Governance
