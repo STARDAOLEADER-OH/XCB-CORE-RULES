@@ -1,3 +1,11 @@
+![StarDAO Overview Comic](./XCB.png)
+
+> 🧠 A visual introduction to StarDAO: Decentralized, modular, and fair.
+
+# 🌐 STARDAO – Universal Decentralized System
+
+StarDAO is a modular DAO ecosystem enabling scalable, fair, and automated decentralized infrastructures.
+
 # 🌌 [STARDAO – Universal Decentralized System](https://github.com/STARDAOLEADER-OH/STARDAO)
 
 StarDAO is a modular DAO ecosystem enabling scalable, fair, and automated decentralized infrastructures.
