@@ -1,4 +1,4 @@
-# 🌌 STARDAO – Universal Decentralized System(https://github.com/STARDAOLEADER-OH/STARDAO)
+# 🌌 [STARDAO – Universal Decentralized System](https://github.com/STARDAOLEADER-OH/STARDAO)
 
 StarDAO is a modular DAO ecosystem enabling scalable, fair, and automated decentralized infrastructures.
 
