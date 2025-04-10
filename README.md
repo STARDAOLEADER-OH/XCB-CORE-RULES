@@ -25,8 +25,6 @@ Cross-border micropayment network using smart contracts and regulatory-friendly 
 
 - 📜 [XCB Core Mechanism](./XCB_CORE_MECHANISM.md) – Token issuance, fee model, and buyback logic.
 - 📜 [Exchange Contract Interface](./XCB_EXCHANGE_CONTRACT.md) – Draft functions for token exchange logic.
-- 🖼️ [Overview Comic](./XCB.png) – Visual summary of XCB ecosystem logic.
-
 
 ## 🧠 DAO Governance
 - Fully open source & DAO-governed
